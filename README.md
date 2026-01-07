@@ -28,8 +28,7 @@ The merged figure integrates data from these public series:
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE278181
 
 ## How to cite / attribute
-If you reuse any part of this merged analysis conceptually (e.g., “cross-study integration of siRNA-seq datasets”), please cite:
-Felgines, Rymen, Martins et al. (2024) *Nature Communications* 10.1038/s41467-024-54268-0
+Please cite: Felgines, Rymen, Martins et al. (2024) *Nature Communications* 10.1038/s41467-024-54268-0
 
 ## Contact
 Laura M. Martins (lmmartinsw@gmail.com)
