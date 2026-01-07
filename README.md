@@ -2,7 +2,7 @@
 This repository documents my contributions to published work (see README).
 
 
-#################### Published work #1: 2024 ####################
+## Published work #1: 2024
 
 **Felgines, Rymen, Martins et al. (2024)** *Nature Communications*  
 “CLSY docking to Pol IV requires a conserved domain critical for small RNA biogenesis and transposon silencing.”   
@@ -24,7 +24,7 @@ The merged figure integrates data from these public series:
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE99692
 - **Zhou et al. 2022 (smRNA-seq)**: GEO **GSE164601**  
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164601
-- **Felgines et al. 2024 (smRNA-seq)**: GEO **GSE242191**  
+- **Felgines et al. 2024 (smRNA-seq)**: GEO **GSE278181**  
   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE278181
 
 ## How to cite / attribute
