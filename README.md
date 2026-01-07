@@ -9,7 +9,7 @@ This repository documents my contributions to published work.
 Paper: https://www.nature.com/articles/s41467-024-54268-0  
 Public analysis repo: https://github.com/toddblev/Felgines_Rymen_Martins_2024
 
-## What I did (Supplementary Fig. 6)
+## What I did
 For Supplementary Fig. 6, I produced the **merged siRNA-seq analysis** by integrating **three independent Arabidopsis smRNA-seq datasets**:
 - **Two previously published datasets** (from Zhou et al. 2018 and Zhou et al. 2022; I generated the libraries for the 2022 study)
 - **One new dataset** generated for the 2024 paper (I generated the libraries and performed the bioinformatic analysis)
