@@ -54,6 +54,7 @@ RNA-seq data were generated from flower, ovule, and anther tissues. I used the l
 Please cite: Xu, G., Chen, Y., Martins, L.M. et al. Transcription factors instruct DNA methylation patterns in plant reproductive tissues. Nat Cell Biol 27, 2116–2127 (2025). https://doi.org/10.1038/s41556-025-01808-5
 
 ## Contact
-Laura M. Martins (lmmartinsw@gmail.com)
 **My unpublished work is private, but can be consulted upon request**
+
+Laura M. Martins (lmmartinsw@gmail.com)
 
